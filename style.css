@@ -1,0 +1,87 @@
+.index {
+    background-image: url(./images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#home,
+h1,
+span {
+    color: darkblue;
+    text-align: center;
+    margin-top: 400px;
+    text-shadow: 10px 10px 20px blueviolet;
+}
+
+.birds {
+    width: 100%;
+    text-align: center;
+    color: whitesmoke;
+    font-size: 40px;
+}
+
+.b {
+    background-image: url(https://images.unsplash.com/photo-1591442650671-e11240e00621?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTl8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h3 {
+    color: white;
+}
+
+h3 a {
+    color: orange;
+}
+
+.water {
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+.w {
+    background-image: url(https://i.pinimg.com/originals/e5/8c/78/e58c78ee75c6d5f3b9de6ac3ed2a622c.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.animal {
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+.a {
+    background-image: url(https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c2F2YW5uYXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.other {
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+.o {
+    background-image: url(http://st.depositphotos.com/2709171/3375/i/450/depositphotos_33753439-Sunset-in-Africa-with-acacia-tree-on-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.snake {
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+.s {
+    background-image: url(https://cdn.wallpapersafari.com/29/28/SkQ0Ev.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
